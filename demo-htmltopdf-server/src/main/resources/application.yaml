@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: htmltodocument-server
+
+server:
+  port: 9090
